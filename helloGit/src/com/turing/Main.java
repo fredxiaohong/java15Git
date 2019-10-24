@@ -11,5 +11,7 @@ public class Main {
     public void show(){
         System.out.println("show2......");
         System.out.println("在master中写入的信息。。。");
+
+        System.out.println("我是Dev中添加的话。。");
     }
 }
